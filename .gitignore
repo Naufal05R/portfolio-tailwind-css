@@ -1,6 +1,6 @@
-# /node_modules
-# /src
-# /dist/output.css
-# package-lock.json
-# package.json
-# tailwind.config.js
+/node_modules
+/src
+/dist/output.css
+package-lock.json
+package.json
+tailwind.config.js
